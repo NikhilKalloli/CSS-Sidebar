@@ -39,10 +39,7 @@ Feel free to customize and enhance the project to suit your needs.
 
 Contributions are welcome! If you have any improvements or new features to suggest, please create a pull request.
 
-
----
-
-Enjoy interacting with the clone! If you have any questions or issues, feel free to [open an issue](https://github.com/NikhilKalloli/CSS-Sidebar/issues).
+If you have any questions or issues, feel free to [open an issue](https://github.com/NikhilKalloli/CSS-Sidebar/issues).
 
 
 ## 🔗 Connect with Me
